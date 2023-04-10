@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(243, 238, 238);
+}
+i{
+    color:skyblue;
+}
+.text{
+    margin:20px 5px;
+}
+a{
+    border-bottom: 1px solid blue;
+}
+.box-inside{
+    background-color: aliceblue;
+    text-align:center;
+    padding:50px 8px;
+    margin:30px 5px;
+}
+.box{
+    padding:60px 5px;
+    
+}
